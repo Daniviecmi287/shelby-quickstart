@@ -1,36 +1,28 @@
-# Shelby Quickstart — Personal Fork
+# Shelby Quickstart — Fork by Daniviecmi287
 
-This is my own version of the **Shelby Quickstart** project — adapted and customized by **Daniviecmi287** as part of my learning journey into decentralized storage and Web3 technologies.
+This is my own version of the **Shelby Quickstart** project, forked from [original author or organization name] (link to original repo). I have made some changes and updates to suit my personal learning goals, including experimenting with **Shelby Protocol** and **decentralized storage**.
 
-My goal with this fork:
-- **Explore Shelby Protocol and CLI usage**
-- **Learn how decentralized blob storage works**
-- **Store and serve sample files using Shelby**
-- **Extend and customize Shelby functionalities** for personal projects
+## My Goals with This Fork
 
-## About the Author
+With this fork, I aim to:
+- **Explore Shelby Protocol** and how its CLI works.
+- **Learn about decentralized blob storage** and how to store files safely.
+- **Extend and customize** Shelby functionalities for my personal projects.
 
-This fork was created by **Daniviecmi287** to learn more about decentralized technologies, Web3 storage, and storage protocols. I am using this project to experiment with Shelby and how it integrates with storage and file serving solutions.
+## What’s Changed in This Fork
 
-Feel free to connect or reach out!  
-You can find me on [GitHub](https://github.com/Daniviecmi287) or [LinkedIn](https://linkedin.com/in/your-profile).
+In this fork, I have:
+- [ ] **Updated documentation**: Added more detailed explanations and examples for beginners.
+- [ ] **Improved configuration**: Made it easier to use Shelby Protocol for personal projects.
+- [ ] **Extended features**: Expanded file storage and serving functionalities.
 
-## What’s Changed in My Fork
+If you’re interested in contributing, feel free to send me a pull request!
 
-In this fork, I’ve updated and customized the project to better suit my personal learning needs:
+## Installation and Usage
 
-- [ ] **Enhanced documentation** for beginners to understand and get started quickly.
-- [ ] **Added usage examples** for better practical understanding.
-- [ ] **Updated configurations** to simplify use of the Shelby protocol.
-- [ ] **Developing additional tools** for interaction with decentralized file systems.
+To run this project on your local machine, follow these steps:
 
-If you are interested in contributing, feel free to send me a pull request!
-
-## Getting Started
-
-These steps will help you explore the **Shelby Quickstart** on your local machine:
-
-1. **Fork** this repository
-2. Clone it to your local system:
+1. **Fork** this repository (if you haven’t already).
+2. Clone the project:
    ```bash
    git clone https://github.com/Daniviecmi287/shelby-quickstart.git
